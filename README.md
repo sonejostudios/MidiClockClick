@@ -1,2 +1,2 @@
 # MidiClockClick
-A simple metronom driven by MidiClock
+A simple metronom driven by MidiClock.
